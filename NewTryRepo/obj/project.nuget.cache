@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkWKFMRlXNKk5S7cXPUFyioAlWmlm+Fl1Pdzu6aoVwH49yJx5nIILH91mZ+3YP0UMqdb1xkXOMfWTQpqCeqo1w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ahmet.Gokdere\\source\\repos\\NewTryRepo\\NewTryRepo\\NewTryRepo.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet.Gokdere\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\sdk\\7.0.306\\FSharp\\library-packs, C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
